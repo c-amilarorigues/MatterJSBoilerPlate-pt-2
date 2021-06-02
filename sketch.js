@@ -16,7 +16,7 @@ function setup() {
 	engine = Engine.create();
 	world = engine.world;
 
-	//Create the Bodies Here.
+	//Crie os Corpos aqui.
 
 
 	Engine.run(engine);
